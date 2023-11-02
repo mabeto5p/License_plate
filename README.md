@@ -12,6 +12,8 @@
 2. Overfit model to 100% accuracy
 3. Cyclic learning rate
    - Subset, curves (look at decreasing part)
+4. Maybe look at initialization of random weights (for encoder aswell?)
+5. Maybe look at punishment for big BB 
 
 ### Data
 Link to small dataset used for training:

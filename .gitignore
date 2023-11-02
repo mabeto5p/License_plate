@@ -1,5 +1,5 @@
 #datasets
-dataset/dataset_local
+dataset/dataset_local/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

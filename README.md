@@ -7,13 +7,14 @@
 4. Push changes and merge to master (make sure to not delete new branch when merging)
 
 
+### Version 
+- 1.1 introduced intersection over union as metric
+
 ### TODO 
 1. Intersection over union as accuracy metric (Done, but need to plot acc)
 2. Overfit model to 100% accuracy
 3. Cyclic learning rate
    - Subset, curves (look at decreasing part)
-4. Maybe look at initialization of random weights (for encoder aswell?)
-5. Maybe look at punishment for big BB 
 
 ### Data
 Link to small dataset used for training:

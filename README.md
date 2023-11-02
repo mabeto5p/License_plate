@@ -8,7 +8,7 @@
 
 
 ### TODO 
-1. Intersection over union as accuracy metric
+1. Intersection over union as accuracy metric (Done, but need to plot acc)
 2. Overfit model to 100% accuracy
 3. Cyclic learning rate
    - Subset, curves (look at decreasing part)

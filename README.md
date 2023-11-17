@@ -9,6 +9,7 @@
 
 ### Version 
 - 1.1 introduced intersection over union as metric
+- 1.2 Implemented cyclic learning rate. (now have cyclic and linear for full model)
 
 ### TODO 
 1. Intersection over union as accuracy metric (Done, but need to plot acc)

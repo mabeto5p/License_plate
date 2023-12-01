@@ -8,7 +8,7 @@ __pycache__/
 
 # Remove ds
 **/.DS_Store
-./CCPD/
+.CCPD/
 # Distribution / packaging
 .Python
 build/
